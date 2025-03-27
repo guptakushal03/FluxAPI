@@ -1,0 +1,6 @@
+Flask
+Flask-Cors
+Flask-RESTful
+gunicorn
+requests
+pandas
